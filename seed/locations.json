@@ -1,0 +1,770 @@
+[
+  {
+    "name": "National Library of the Kyrgyz Republic named after A. Osmonov",
+    "type": "library",
+    "address": "208 Jusup Abdrakhmanov St, Bishkek",
+    "latitude": 42.88141025,
+    "longitude": 74.61098316,
+    "hours": {
+      "mon": "[paste from Google Maps]",
+      "tue": "09:00-unknown",
+      "wed": "09:00-unknown",
+      "thu": "09:00-unknown",
+      "fri": "09:00-unknown",
+      "sat": "unknown",
+      "sun": "unknown"
+    },
+    "price_level": 0,
+    "amenities": {
+      "wifi": null,
+      "outlets": "many",
+      "bathroom": true,
+      "food": false,
+      "large_table": true,
+      "accessible": true
+    },
+    "study_attributes": {
+      "noise_level": "quiet",
+      "best_for": [
+        "deep work",
+        "reading",
+        "exam prep"
+      ],
+      "not_ideal_for": [
+        "group discussions",
+        "phone calls"
+      ]
+    },
+    "source": "Research file",
+    "last_verified": "2026-10-05",
+    "notes": "Sanitary day last Friday of each month"
+  },
+  {
+    "name": "Republican Library for Children and Youth named after K. Bayalinov",
+    "type": "library",
+    "address": "242 Atay Ogonbaev St, Bishkek",
+    "latitude": 42.87764,
+    "longitude": 74.61054221,
+    "hours": {
+      "mon": "09:00-18:00",
+      "tue": "09:00-18:00",
+      "wed": "09:00-18:00",
+      "thu": "09:00-18:00",
+      "fri": "09:00-18:00",
+      "sat": "09:00-18:00",
+      "sun": "09:00-18:00"
+    },
+    "price_level": 0,
+    "amenities": {
+      "wifi": true,
+      "outlets": null,
+      "bathroom": null,
+      "food": false,
+      "large_table": true,
+      "accessible": null
+    },
+    "study_attributes": {
+      "noise_level": "quiet",
+      "best_for": [
+        "reading",
+        "exam prep",
+        "deep work"
+      ],
+      "not_ideal_for": [
+        "group discussions",
+        "phone calls"
+      ]
+    },
+    "source": "Mapcarta + THE TECH",
+    "last_verified": "2026-10-05",
+    "notes": "Sanitary day last Friday monthly. Wi-Fi confirmed by THE TECH."
+  },
+  {
+    "name": "AUCA Library",
+    "type": "library",
+    "address": "7/6 Aaly Tokombaev St, Bishkek",
+    "latitude": 42.81125978,
+    "longitude": 74.62721284,
+    "hours": {
+      "mon": "08:00-20:00",
+      "tue": "08:00-20:00",
+      "wed": "08:00-20:00",
+      "thu": "08:00-20:00",
+      "fri": "08:00-20:00",
+      "sat": "unknown",
+      "sun": "unknown"
+    },
+    "price_level": 0,
+    "amenities": {
+      "wifi": null,
+      "outlets": null,
+      "bathroom": null,
+      "food": null,
+      "large_table": true,
+      "accessible": null
+    },
+    "study_attributes": {
+      "noise_level": "quiet",
+      "best_for": [
+        "deep work",
+        "research",
+        "exam prep"
+      ],
+      "not_ideal_for": []
+    },
+    "source": "Research file",
+    "last_verified": "2026-10-05",
+    "notes": "PUBLIC ACCESS UNKNOWN — contact library first"
+  },
+  {
+    "name": "Sierra Coffee Manas",
+    "type": "cafe",
+    "address": "57/1 Manas Ave, Bishkek",
+    "latitude": 42.874596646470856,
+    "longitude": 74.58851834,
+    "hours": {
+      "mon": "unknown",
+      "tue": "unknown",
+      "wed": "unknown",
+      "thu": "unknown",
+      "fri": "unknown",
+      "sat": "unknown",
+      "sun": "unknown"
+    },
+    "price_level": null,
+    "amenities": {
+      "wifi": null,
+      "outlets": null,
+      "bathroom": null,
+      "food": true,
+      "large_table": true,
+      "accessible": null
+    },
+    "study_attributes": {
+      "noise_level": "moderate",
+      "best_for": [
+        "laptop work",
+        "casual study"
+      ],
+      "not_ideal_for": [
+        "deep work",
+        "silence"
+      ]
+    },
+    "source": "Research file",
+    "last_verified": "2026-10-05",
+    "notes": "Verify hours in 2GIS/Google Maps"
+  },
+  {
+    "name": "Adriano Coffee Isanova",
+    "type": "cafe",
+    "address": "87 Isanova St, Bishkek",
+    "latitude": 42.87573275,
+    "longitude": 74.59190508,
+    "hours": {
+      "mon": "07:30-00:00",
+      "tue": "07:30-00:00",
+      "wed": "07:30-00:00",
+      "thu": "07:30-00:00",
+      "fri": "07:30-00:00",
+      "sat": "07:30-00:00",
+      "sun": "07:30-00:00"
+    },
+    "price_level": null,
+    "amenities": {
+      "wifi": null,
+      "outlets": null,
+      "bathroom": null,
+      "food": true,
+      "large_table": true,
+      "accessible": null
+    },
+    "study_attributes": {
+      "noise_level": "moderate",
+      "best_for": [
+        "laptop work",
+        "meetings"
+      ],
+      "not_ideal_for": [
+        "deep work",
+        "silence"
+      ]
+    },
+    "source": "Research file",
+    "last_verified": "2026-10-05",
+    "notes": "Verify price from current menu"
+  },
+  {
+    "name": "Adriano Coffee Yunusaliev",
+    "type": "cafe",
+    "address": "171/1 Yunusaliev Ave, Bishkek",
+    "latitude": 42.8305672,
+    "longitude": 74.62187477,
+    "hours": {
+      "mon": "07:30-02:00",
+      "tue": "07:30-02:00",
+      "wed": "07:30-02:00",
+      "thu": "07:30-02:00",
+      "fri": "07:30-02:00",
+      "sat": "07:30-02:00",
+      "sun": "07:30-02:00"
+    },
+    "price_level": null,
+    "amenities": {
+      "wifi": null,
+      "outlets": null,
+      "bathroom": null,
+      "food": true,
+      "large_table": true,
+      "accessible": null
+    },
+    "study_attributes": {
+      "noise_level": "moderate",
+      "best_for": [
+        "laptop work",
+        "late-night study"
+      ],
+      "not_ideal_for": [
+        "deep work",
+        "silence"
+      ]
+    },
+    "source": "Research file",
+    "last_verified": "2026-10-05",
+    "notes": "Average check ~600 som (reported)"
+  },
+  {
+    "name": "Bellagio Coffee Erkindik",
+    "type": "cafe",
+    "address": "9 Erkindik Blvd (near Bokonbaev St), Bishkek",
+    "latitude": 42.86713432,
+    "longitude": 74.60672396,
+    "hours": {
+      "mon": "unknown",
+      "tue": "unknown",
+      "wed": "unknown",
+      "thu": "unknown",
+      "fri": "unknown",
+      "sat": "unknown",
+      "sun": "unknown"
+    },
+    "price_level": null,
+    "amenities": {
+      "wifi": null,
+      "outlets": null,
+      "bathroom": null,
+      "food": true,
+      "large_table": true,
+      "accessible": null
+    },
+    "study_attributes": {
+      "noise_level": "moderate",
+      "best_for": [
+        "laptop work",
+        "casual study"
+      ],
+      "not_ideal_for": [
+        "deep work"
+      ]
+    },
+    "source": "Research file",
+    "last_verified": "2026-10-05",
+    "notes": "Verify hours and price"
+  },
+  {
+    "name": "Bellagio Coffee Manas",
+    "type": "cafe",
+    "address": "49 Manas Ave, Bishkek",
+    "latitude": 42.87500745,
+    "longitude": 74.60480949,
+    "hours": {
+      "mon": "unknown",
+      "tue": "unknown",
+      "wed": "unknown",
+      "thu": "unknown",
+      "fri": "unknown",
+      "sat": "unknown",
+      "sun": "unknown"
+    },
+    "price_level": null,
+    "amenities": {
+      "wifi": null,
+      "outlets": null,
+      "bathroom": null,
+      "food": true,
+      "large_table": true,
+      "accessible": null
+    },
+    "study_attributes": {
+      "noise_level": "moderate",
+      "best_for": [
+        "laptop work",
+        "casual study"
+      ],
+      "not_ideal_for": [
+        "deep work"
+      ]
+    },
+    "source": "Research file",
+    "last_verified": "2026-10-05",
+    "notes": "Verify hours and price"
+  },
+  {
+    "name": "ololoPlanet",
+    "type": "coworking",
+    "address": "80 Yunusaliev St, Bishkek",
+    "latitude": 42.84887192,
+    "longitude": 74.623407,
+    "hours": {
+      "mon": "24/7",
+      "tue": "24/7",
+      "wed": "24/7",
+      "thu": "24/7",
+      "fri": "24/7",
+      "sat": "24/7",
+      "sun": "24/7"
+    },
+    "price_level": 3,
+    "amenities": {
+      "wifi": true,
+      "outlets": null,
+      "bathroom": null,
+      "food": null,
+      "large_table": true,
+      "accessible": null
+    },
+    "study_attributes": {
+      "noise_level": "quiet",
+      "best_for": [
+        "deep work",
+        "group projects",
+        "long sessions"
+      ],
+      "not_ideal_for": [
+        "free study"
+      ]
+    },
+    "source": "Research file",
+    "last_verified": "2026-10-05",
+    "notes": "24/7 building access; manager M-F 09:00-18:00"
+  },
+  {
+    "name": "ololoErkindik",
+    "type": "coworking",
+    "address": "64B Erkindik Blvd, Bishkek",
+    "latitude": 42.88226241,
+    "longitude": 74.60573755,
+    "hours": {
+      "mon": "24/7",
+      "tue": "24/7",
+      "wed": "24/7",
+      "thu": "24/7",
+      "fri": "24/7",
+      "sat": "24/7",
+      "sun": "24/7"
+    },
+    "price_level": 3,
+    "amenities": {
+      "wifi": true,
+      "outlets": null,
+      "bathroom": null,
+      "food": null,
+      "large_table": true,
+      "accessible": null
+    },
+    "study_attributes": {
+      "noise_level": "quiet",
+      "best_for": [
+        "deep work",
+        "group projects",
+        "long sessions"
+      ],
+      "not_ideal_for": [
+        "free study"
+      ]
+    },
+    "source": "Research file",
+    "last_verified": "2026-10-05",
+    "notes": "24/7 access; manager M-F 09:00-18:00"
+  },
+  {
+    "name": "ololoYurt",
+    "type": "coworking",
+    "address": "61 Kulatov St, Bishkek",
+    "latitude": 42.86055948,
+    "longitude": 74.59726214,
+    "hours": {
+      "mon": "unknown",
+      "tue": "unknown",
+      "wed": "unknown",
+      "thu": "unknown",
+      "fri": "unknown",
+      "sat": "unknown",
+      "sun": "unknown"
+    },
+    "price_level": 3,
+    "amenities": {
+      "wifi": null,
+      "outlets": null,
+      "bathroom": null,
+      "food": null,
+      "large_table": true,
+      "accessible": null
+    },
+    "study_attributes": {
+      "noise_level": null,
+      "best_for": [],
+      "not_ideal_for": []
+    },
+    "source": "Research file",
+    "last_verified": "2026-10-05",
+    "notes": "Verify hours and amenities"
+  },
+  {
+    "name": "ololoOrmonKhan",
+    "type": "coworking",
+    "address": "Asanbay microdistrict 27/1, Bishkek",
+    "latitude": 42.81875517,
+    "longitude": 74.62489654,
+    "hours": {
+      "mon": "24/7",
+      "tue": "24/7",
+      "wed": "24/7",
+      "thu": "24/7",
+      "fri": "24/7",
+      "sat": "24/7",
+      "sun": "24/7"
+    },
+    "price_level": 3,
+    "amenities": {
+      "wifi": true,
+      "outlets": null,
+      "bathroom": null,
+      "food": null,
+      "large_table": true,
+      "accessible": null
+    },
+    "study_attributes": {
+      "noise_level": "quiet",
+      "best_for": [
+        "deep work",
+        "fast internet"
+      ],
+      "not_ideal_for": []
+    },
+    "source": "Research file",
+    "last_verified": "2026-10-05",
+    "notes": "Reviews report 24/7 + fast internet; confirm entry terms and day price"
+  },
+  {
+    "name": "iHub",
+    "type": "coworking",
+    "address": "1/4 Baitik Baatyr St, Bishkek",
+    "latitude": 42.83282448,
+    "longitude": 74.60911483,
+    "hours": {
+      "mon": "unknown",
+      "tue": "unknown",
+      "wed": "unknown",
+      "thu": "unknown",
+      "fri": "unknown",
+      "sat": "unknown",
+      "sun": "unknown"
+    },
+    "price_level": 3,
+    "amenities": {
+      "wifi": null,
+      "outlets": null,
+      "bathroom": null,
+      "food": null,
+      "large_table": true,
+      "accessible": null
+    },
+    "study_attributes": {
+      "noise_level": null,
+      "best_for": [
+        "meetings",
+        "group work"
+      ],
+      "not_ideal_for": []
+    },
+    "source": "Research file",
+    "last_verified": "2026-10-05",
+    "notes": "Has meeting rooms; verify hours and price"
+  },
+  {
+    "name": "Open Space",
+    "type": "coworking",
+    "address": "Chuy Prospekt 150a, Bishkek (4th floor, right wing)",
+    "latitude": 42.876107,
+    "longitude": 74.592208,
+    "hours": {
+      "mon": "08:00-22:30",
+      "tue": "08:00-22:30",
+      "wed": "08:00-22:30",
+      "thu": "08:00-22:30",
+      "fri": "08:00-22:30",
+      "sat": "08:00-22:30",
+      "sun": "08:00-22:30"
+    },
+    "price_level": 3,
+    "amenities": {
+      "wifi": true,
+      "outlets": null,
+      "bathroom": null,
+      "food": null,
+      "large_table": true,
+      "accessible": null
+    },
+    "study_attributes": {
+      "noise_level": "quiet",
+      "best_for": [
+        "deep work",
+        "long sessions",
+        "meetings"
+      ],
+      "not_ideal_for": [
+        "free study"
+      ]
+    },
+    "source": "urbanplaces.su",
+    "last_verified": "2026-10-05",
+    "notes": "Conference rooms available. Verify day price."
+  },
+  {
+    "name": "Technopark Coworking",
+    "type": "coworking",
+    "address": "Gorky St 1/2, Bishkek (1st floor)",
+    "latitude": 42.85659963,
+    "longitude": 74.63521454,
+    "hours": {
+      "mon": "24/7",
+      "tue": "24/7",
+      "wed": "24/7",
+      "thu": "24/7",
+      "fri": "24/7",
+      "sat": "24/7",
+      "sun": "24/7"
+    },
+    "price_level": 3,
+    "amenities": {
+      "wifi": true,
+      "outlets": null,
+      "bathroom": null,
+      "food": null,
+      "large_table": true,
+      "accessible": null
+    },
+    "study_attributes": {
+      "noise_level": "quiet",
+      "best_for": [
+        "deep work",
+        "long sessions",
+        "startups"
+      ],
+      "not_ideal_for": [
+        "free study"
+      ]
+    },
+    "source": "24.kg + Coworker.com",
+    "last_verified": "2026-10-05",
+    "notes": "24/7 IT hub. 3500 m², 400 workstations. Free parking."
+  },
+  {
+    "name": "Biscuit",
+    "type": "cafe",
+    "address": "53/2 Aaly Tokombaev St, Bishkek",
+    "latitude": 42.82886,
+    "longitude": 74.62211,
+    "hours": {
+      "mon": "08:00-23:00",
+      "tue": "08:00-23:00",
+      "wed": "08:00-23:00",
+      "thu": "08:00-23:00",
+      "fri": "08:00-23:00",
+      "sat": "08:00-23:00",
+      "sun": "08:00-23:00"
+    },
+    "price_level": 2,
+    "amenities": {
+      "wifi": true,
+      "outlets": "many",
+      "bathroom": true,
+      "food": true,
+      "large_table": true,
+      "accessible": null
+    },
+    "study_attributes": {
+      "noise_level": "moderate",
+      "best_for": [
+        "laptop work",
+        "casual study",
+        "breakfast"
+      ],
+      "not_ideal_for": [
+        "silence",
+        "deep work"
+      ]
+    },
+    "source": "Wanderlog + geoview.info",
+    "last_verified": "2026-10-05",
+    "notes": "High-speed Wi-Fi and many power outlets confirmed."
+  },
+  {
+    "name": "Collab",
+    "type": "coworking",
+    "address": "Tokombaeva St 9B, Bishkek (12th floor)",
+    "latitude": 42.815129,
+    "longitude": 74.627126,
+    "hours": {
+      "mon": "24/7",
+      "tue": "24/7",
+      "wed": "24/7",
+      "thu": "24/7",
+      "fri": "24/7",
+      "sat": "24/7",
+      "sun": "24/7"
+    },
+    "price_level": 3,
+    "amenities": {
+      "wifi": true,
+      "outlets": null,
+      "bathroom": null,
+      "food": true,
+      "large_table": true,
+      "accessible": null
+    },
+    "study_attributes": {
+      "noise_level": "quiet",
+      "best_for": [
+        "deep work",
+        "group projects",
+        "events"
+      ],
+      "not_ideal_for": [
+        "free study"
+      ]
+    },
+    "source": "urbanplaces.su + THE TECH",
+    "last_verified": "2026-10-05",
+    "notes": "24/7 access. On-site café. Conference rooms. Near Botanical Garden."
+  },
+  {
+    "name": "Raritet (Раритет)",
+    "type": "bookstore",
+    "address": "Pushkina St 78, Bishkek (basement floor)",
+    "latitude": 42.87669,
+    "longitude": 74.604971,
+    "hours": {
+      "mon": "unknown",
+      "tue": "unknown",
+      "wed": "unknown",
+      "thu": "unknown",
+      "fri": "unknown",
+      "sat": "unknown",
+      "sun": "unknown"
+    },
+    "price_level": 0,
+    "amenities": {
+      "wifi": null,
+      "outlets": null,
+      "bathroom": null,
+      "food": false,
+      "large_table": true,
+      "accessible": false
+    },
+    "study_attributes": {
+      "noise_level": "quiet",
+      "best_for": [
+        "reading",
+        "quiet study",
+        "deep work"
+      ],
+      "not_ideal_for": [
+        "group discussions",
+        "laptop work"
+      ]
+    },
+    "source": "urbanplaces.su + gorodwiki.ru",
+    "last_verified": "2026-10-05",
+    "notes": "Has seating area and reading room. Not wheelchair accessible (stairs)."
+  },
+  {
+    "name": "Coworking Space Sabi",
+    "type": "coworking",
+    "address": "Radishcheva St 35, Bishkek",
+    "latitude": 42.85337978,
+    "longitude": 74.60865643,
+    "hours": {
+      "mon": "unknown",
+      "tue": "unknown",
+      "wed": "unknown",
+      "thu": "unknown",
+      "fri": "unknown",
+      "sat": "unknown",
+      "sun": "unknown"
+    },
+    "price_level": 3,
+    "amenities": {
+      "wifi": true,
+      "outlets": null,
+      "bathroom": null,
+      "food": null,
+      "large_table": true,
+      "accessible": null
+    },
+    "study_attributes": {
+      "noise_level": "quiet",
+      "best_for": [
+        "deep work",
+        "creative work",
+        "small teams"
+      ],
+      "not_ideal_for": [
+        "free study"
+      ]
+    },
+    "source": "gorodwiki.ru + THE TECH",
+    "last_verified": "2026-10-05",
+    "notes": "Small mansion converted to office space. 3 floors + basement. Intimate atmosphere."
+  },
+  {
+    "name": "District Library #9",
+    "type": "library",
+    "address": "Chuy Prospekt 111, Bishkek",
+    "latitude": 42.875308,
+    "longitude": 74.632911,
+    "hours": {
+      "mon": "unknown",
+      "tue": "unknown",
+      "wed": "unknown",
+      "thu": "unknown",
+      "fri": "unknown",
+      "sat": "unknown",
+      "sun": "unknown"
+    },
+    "price_level": 0,
+    "amenities": {
+      "wifi": true,
+      "outlets": null,
+      "bathroom": null,
+      "food": false,
+      "large_table": true,
+      "accessible": null
+    },
+    "study_attributes": {
+      "noise_level": "quiet",
+      "best_for": [
+        "reading",
+        "exam prep",
+        "free study"
+      ],
+      "not_ideal_for": [
+        "group discussions"
+      ]
+    },
+    "source": "Beeline official website",
+    "last_verified": "2026-10-05",
+    "notes": "Has free Beeline coworking space inside. Verify hours."
+  }
+]
