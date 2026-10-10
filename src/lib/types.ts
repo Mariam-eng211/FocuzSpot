@@ -1,4 +1,3 @@
-// Shape of a location row from Supabase
 export type Location = {
   id: string;
   name: string;
@@ -7,7 +6,7 @@ export type Location = {
   latitude: number;
   longitude: number;
   hours: Record<string, string | null>;
-  price_level: 0 | 1 | 2 | 3;
+  price_level: 0 | 1 | 2 | 3 | null;
   amenities: {
     wifi: boolean | null;
     outlets: 'many' | 'some' | 'none' | null;
@@ -24,9 +23,15 @@ export type Location = {
   source: string | null;
   last_verified: string | null;
   notes: string | null;
+  rating: number | null;
+  rating_count: number | null;
+  report_count: number | null;
+  verified: boolean | null;
+  photo_url: string | null;
+  osm_id: string | null;
+  created_at: string | null;
 };
 
-// User preferences from the form
 export type Preferences = {
   budget: 'free' | 'under-100' | 'under-300' | 'any';
   noise: 'quiet' | 'some-noise' | 'any';
@@ -34,7 +39,6 @@ export type Preferences = {
   outlet: boolean;
 };
 
-// Report row (used later on Day 7)
 export type Report = {
   id: string;
   location_id: string;
